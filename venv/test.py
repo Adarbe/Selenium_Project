@@ -8,3 +8,4 @@ shell.Sendkeys("~")
 
 
 print ("Hello")
+print ("HAHAHAH")
